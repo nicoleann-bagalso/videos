@@ -17,14 +17,14 @@ body.page {
 }
 
 section {
-    width: 400px;
+    width: 600px;
     margin: auto;
     padding-top: 80px;
     text-align: center;
 }
 article {
     background-color: #FFF;
-    width: 410px;
+    width: 610px;
     float: left;
     border-radius: 5px;
     border: solid 1px #888;
