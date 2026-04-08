@@ -17,19 +17,19 @@ body.page {
 }
 
 section {
-    width: 900px;
+    width: 400px;
     margin: auto;
     padding-top: 80px;
     text-align: center;
 }
 article {
     background-color: #FFF;
-    width: 900px;
+    width: 410px;
     float: left;
     border-radius: 5px;
     border: solid 1px #888;
     padding: 4px;
-    height: 400px;
+    height: 900px;
 }
 h1 {
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
